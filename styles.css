@@ -1,12 +1,21 @@
-body{
-    background-image: url(./images/kali.webp);
+.home{
+    background-image: url(./images/blackman.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    width: 100%;
+    
 
 }
+
 #name{
     color: whitesmoke;
 }
-par1
+#par1{
+    color: wheat;
+    margin-top: 1000px;
+    padding: 0px 200px 0px 0px;
+}
 h2{
     text-align: center;
 }
@@ -17,10 +26,11 @@ h2{
 body{
     background-color: rebeccapurple;
 }
-nav>ul{
-    display: inline-block;
+nav{
+    position: fixed;
 }
-nav>a {
+
+a{
     color: whitesmoke;
     /* padding: 40px; */
     text-decoration: navajowhite;
@@ -28,5 +38,11 @@ nav>a {
     /* display: block; */
     text-align: center;
     padding: 30px;
-    font-size: 20px;
+    font-size: 15px;
+}
+#frank{
+    float: right;
+}
+#hd{
+    text-decoration: underline;
 }
