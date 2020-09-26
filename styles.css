@@ -43,6 +43,22 @@ a{
 #frank{
     float: right;
 }
-#hd{
+#hd1{
     text-decoration: underline;
 }
+/* #projos{
+    display: inline;
+} */
+#hd2{
+    text-decoration-line: underline;
+}
+.row{
+    display: flex;
+}
+#contacts{
+    background-image: url(./images/contacts.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
