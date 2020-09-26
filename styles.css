@@ -1,0 +1,32 @@
+body{
+    background-image: url(./images/kali.webp);
+    background-repeat: no-repeat;
+
+}
+#name{
+    color: whitesmoke;
+}
+par1
+h2{
+    text-align: center;
+}
+#image1{
+    margin-right: 50%;
+    margin-left: 40%;
+}
+body{
+    background-color: rebeccapurple;
+}
+nav>ul{
+    display: inline-block;
+}
+nav>a {
+    color: whitesmoke;
+    /* padding: 40px; */
+    text-decoration: navajowhite;
+    float: right;
+    /* display: block; */
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
