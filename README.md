@@ -7,7 +7,7 @@ By  Francis Gacheru.
 The website is all about my description.
 ## project Set up Instructions
 * Ctrl + alt + t to open the terminal
-<!-- * now git clone https://github.com/FGacheru/Portfolio -->
+* now git clone https://github.com/FGacheru/Portfolio
 * cd portfolio
 * you can use code . or atom . to open it.
 ## Known Bugs
@@ -19,4 +19,4 @@ The website is all about my description.
 I would like to give credit to my Technical mentor for the guidance she gave me towards the development of this web
 ### License
 * Licensed under the MIT license
-Copyright (c) [2020] (Benard Kiplangat Bett)
+Copyright (c) [2020] (Francis Gacheru)
