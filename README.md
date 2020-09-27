@@ -1,5 +1,5 @@
 # Portfolio
-#### Portfolio iS website that has description of whom am that is curriculum vitae.It was created on 26/10/2020.
+#### Portfolio is a website that describes about someone. That is the 'curriculum vitae'.It was created on 26/09/2020.
 ## Author
 By  Francis Gacheru.
 ## Description of my portfolio
