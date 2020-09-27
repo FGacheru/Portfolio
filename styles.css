@@ -1,4 +1,4 @@
-.home{
+#index{
     background-image: url(./images/blackman.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,6 +51,7 @@ a{
 } */
 #hd2{
     text-decoration-line: underline;
+
 }
 .row{
     display: flex;
@@ -59,11 +60,38 @@ a{
     background-image: url(./images/contacts.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 200px;
+    height: 250px;
 }
 #last{
     padding: 0px 0px 0px 37%;
     font-size: 40px;
     color: wheat;
+}
+#social{
+    text-align: center;
+    left: 300px;
+    right: 300px;
+    padding: 0px 500px 1000px 200px;
+}
+#final{
+    padding: 0px 0px 0px 37%;
+    color: wheat;
+}
+#ray{
+    padding: 0px 0px 0px 44%;
+}
+#projo1{
+    border: 1px dotted black;
+    margin-top: 100px;
+    margin-bottom: 500px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+#projo2{
+    border: 1px dotted black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 
