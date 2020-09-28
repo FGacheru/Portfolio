@@ -32,10 +32,10 @@ nav{
 
 a{
     color: whitesmoke;
-    /* padding: 40px; */
+    
     text-decoration: navajowhite;
     float: right;
-    /* display: block; */
+   
     text-align: center;
     padding: 30px;
     font-size: 15px;
@@ -46,9 +46,7 @@ a{
 #hd1{
     text-decoration: underline;
 }
-/* #projos{
-    display: inline;
-} */
+
 #hd2{
     text-decoration-line: underline;
 
@@ -71,7 +69,7 @@ a{
     text-align: center;
     left: 300px;
     right: 300px;
-    padding: 0px 500px 1000px 200px;
+    padding: 0px 500px 100px 200px;
 }
 #final{
     padding: 0px 0px 0px 37%;
@@ -82,24 +80,20 @@ a{
 }
 #projo1{
     border: 1px dotted black;
-    /* margin-top: 100px; */
-    /* margin-bottom: 500px; */
     margin-right: 150px;
     margin-left: 80px;
 }
 #projo2{
     border: 1px dotted black;
-    /* margin-top: 100px; */
-    /* margin-bottom: 100px; */
     margin-right: 150px;
     margin-left: 80px;
 }
 #link2{
-    padding: 0px 200px 2000px;
+    padding: 0px 200px 200px;
    
 }
 #link1{
-    padding: 1000px 200px 2000px; 
+    padding: 1000px 200px 200px; 
    
 }
 
